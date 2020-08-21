@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I'm yutaka0m👋
 
-<!--
-**yutaka0m/yutaka0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working as an application engineer in Japan :jp:
 
-Here are some ideas to get you started:
+### Find me all around the web:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Twitter](http://twitter.com/yutaka0m)
+- [yutaka0m website](https://tech.yutaka0m.com) :globe_with_meridians:
+
+# Qualification:
+
+- Oracle Certified Java Programmer, Silver SE 8(2018)
+- Oracle Certified Java Programmer, Gold SE 8(2019)
+- AWS Certified SysOps Administrator – Associate(2020)
