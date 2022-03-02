@@ -10,5 +10,6 @@ I'm working as an application engineer in Japan :jp:
 - AWS Certified SysOps Administrator – Associate(2020)
 - AWS Certified Solutions Architect – Associate(2020)
 - AWS Certified Developer - Associate(2020)
+- AWS Certified Solutions Architect - Professional(2022)
 
 <img src="https://github.com/yutaka0m/yutaka0m/blob/master/my-octocat.png" width="150" height="150">
