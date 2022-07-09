@@ -1,6 +1,6 @@
 ### Hi there I'm yutaka0m👋
 
-I'm working as an application engineer in Japan :jp:
+I'm working as an DevOps engineer in Japan :jp:
 
 ### Qualification:
 
